@@ -6,5 +6,6 @@
 			<span>Smasnug Development</span>
 		</h1>
 		<h2 class="text-2xl">and we make stuff</h2>
+                (Actual site coming soon)
 	</div>
 </div>
