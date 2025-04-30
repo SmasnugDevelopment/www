@@ -34,6 +34,6 @@
 		"vite": "^6.3.3"
 	},
 	"dependencies": {
-		"mode-watcher": "^1.0.2"
+		"mode-watcher": "^1.0.4"
 	}
 }
